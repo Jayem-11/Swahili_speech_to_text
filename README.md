@@ -3,7 +3,7 @@
 Finetuning whisper-small for swahili speech to text.
 
 ![car](https://github.com/Jayem-11/Swahili_speech_to_text/blob/main/sw.jpg)
-photo credits: [iStock](https://www.istockphoto.com/portfolio/Devonyu?mediatype=photography)  
+photo credits: [Devonyu](https://www.istockphoto.com/portfolio/Devonyu?mediatype=photography)  
 
 ## Description: 
 This project uses the [small version of Whisper](https://huggingface.co/openai/whisper-small), a general-purpose speech recognition model created by OpenAI, to convert Swahili audio to text. Whisper is pretrained for ASR (Automatic speech Recognition) and speech translation on 680k hours of labelled data
