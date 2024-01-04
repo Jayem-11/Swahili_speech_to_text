@@ -19,7 +19,7 @@ st.write("""# """)
 
 # =========================================================================================
 
-st.write("""## Upload a 30 sec Swahili audio """)
+st.write("""## Upload a Swahili audio of up-to 30 seconds""")
 
 # =========================================================================================
 
@@ -37,7 +37,7 @@ if uploaded_file is not None:
 
 
 # Button
-predict_bt = st.button('Summary')
+predict_bt = st.button('Text')
 
 st.write("""# """)
 
