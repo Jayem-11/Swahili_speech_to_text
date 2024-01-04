@@ -2,7 +2,7 @@
 
 Finetuning whisper-small for sahili speech to text.
 
-![car](https://github.com/Jayem-11/Used_Car_Prices/blob/main/car.jpg)
+![car](https://github.com/Jayem-11/Swahili_speech_to_text/blob/main/sw.jpg)
 photo credits: [Pixabay](http://pixabay.com/)  
 
 ## Description: 
@@ -17,18 +17,9 @@ This project uses the [small version of Whisper](https://huggingface.co/openai/w
 [B Machine learning](#ml) <br>
 [C Deploying](#dp) <br>
 
-## Tech Stack
-- Beautiful soup
-- Power BI
-- PostgreSQL
-- Scikit-learn
-- Tensorflow
-- Keras
-- Streamlit
-
 ## Design
 
-![Design](https://github.com/Jayem-11/Used_Car_Prices/blob/main/design.jpg)
+![Design](https://github.com/Jayem-11/Swahili_speech_to_text/blob/main/workflow.png)
 
 
 ## <span id="dt">A. Data </span>
