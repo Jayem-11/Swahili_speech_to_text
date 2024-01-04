@@ -36,13 +36,13 @@ The model had a WER score of 8.365
 
 ## <span id="dp"> C. Deploying </span>
 
-- Deployed at: https://jayem-11-used-car-prices-main-77qw4p.streamlit.app/
+- Deployed at: https://swahilispeechtotext-htxcv6sjkjcazseovpfrkk.streamlit.app/
 
 ![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/deployed1.png)
 
 ## 
 
-- Hit the predict button to input the data to the model. The outcome is as shown below.
+- Upload a 30 second audio or less and hit the text button.
 ![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/deployed2.png)
 
 
