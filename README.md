@@ -1,12 +1,12 @@
 # Swahili Speech to text
 
-Predicting used car prices in New York and California using ANN and Linear Regression
+Finetuning whisper-small for sahili speech to text.
 
 ![car](https://github.com/Jayem-11/Used_Car_Prices/blob/main/car.jpg)
 photo credits: [Pixabay](http://pixabay.com/)  
 
 ## Description: 
-The system Predicts used car prices using Artificial Nueral Networks based on data collected from New York and Carlifonia
+This project uses the [small version of Whisper](https://huggingface.co/openai/whisper-small), a general-purpose speech recognition model created by OpenAI, to convert Swahili audio to text. Whisper is pretrained for ASR (Automatic speech Recognition) and speech translation on 680k hours of labelled data
 
 ## Author
 - Github [@JM_Rono](https://github.com/Jayem-11)
