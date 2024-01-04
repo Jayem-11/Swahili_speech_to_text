@@ -27,5 +27,24 @@ The data consist of about 82K instances of swahili audio form Mozilla common voi
 
 ## <span id="ml">B. Machine Learning </span>
 
-## <span id="dp">C. Deploying </span>
+- Check-out notebook:  [@notebook](https://github.com/Jayem-11/Swahili_speech_to_text/blob/main/swahili-whisper-finetuning.ipynb)
+
+
+### Evaluation
+The model had a WER score of 8.365
+[wandb](https://api.wandb.ai/links/ronojohnmichael/8bafteyt)
+
+## <span id="dp"> C. Deploying </span>
+
+- Deployed at: https://jayem-11-used-car-prices-main-77qw4p.streamlit.app/
+
+![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/deployed1.png)
+
+## 
+
+- Hit the predict button to input the data to the model. The outcome is as shown below.
+![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/deployed2.png)
+
+
+
 
