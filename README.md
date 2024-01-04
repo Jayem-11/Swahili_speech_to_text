@@ -32,4 +32,3 @@ This project uses the [small version of Whisper](https://huggingface.co/openai/w
 
 
 ## <span id="dt">A. Data </span>
->>>>>>> e57a8c60e4c29c418abb59a8edbf97136daacceb
