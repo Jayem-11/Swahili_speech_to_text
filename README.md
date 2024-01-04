@@ -24,3 +24,8 @@ This project uses the [small version of Whisper](https://huggingface.co/openai/w
 
 ## <span id="dt">A. Data </span>
 The data consist of about 82K instances of swahili audio form Mozilla common voice. I got the dataset from participating in a [Zindi competition](https://zindi.africa/competitions/mozilla-foundation-mozilla-common-voice-hackathon-i-nairobi/data). Join the completed competiotion to get acces to the data. 
+
+## <span id="ml">B. Machine Learning </span>
+
+## <span id="dp">C. Deploying </span>
+
