@@ -37,13 +37,13 @@ The model had a WER score of 8.365
 ## <span id="dp"> C. Deploying </span>
 
 - Deployed at: https://swahilispeechtotext-htxcv6sjkjcazseovpfrkk.streamlit.app/
-
-![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/deployed1.png)
+- Upload a 30 second audio or less 
+![Jupyter notebook example](https://github.com/Jayem-11/Swahili_speech_to_text/blob/main/ui1.png)
 
 ## 
 
-- Upload a 30 second audio or less and hit the text button.
-![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/deployed2.png)
+- Hit the text button.
+![Jupyter notebook example](https://github.com/Jayem-11/Swahili_speech_to_text/blob/main/ui2.png)
 
 
 
