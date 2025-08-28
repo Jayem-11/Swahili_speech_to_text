@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+moviepy
+librosa
+numpy
+torch
+python-multipart
+sentencepiece 
+protobuf 
